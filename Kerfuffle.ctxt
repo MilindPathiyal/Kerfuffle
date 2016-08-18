@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Kerfuffle()
+comment1.params=x
+comment1.target=Kerfuffle(Kerfuffle)
+comment2.params=x\ y\ s
+comment2.target=double\ doff(Kerfuffle,\ Kerfuffle,\ java.lang.String)
+comment3.params=s
+comment3.target=void\ cachinnate(java.lang.String)
+comment4.params=x
+comment4.target=int\ vituperate(double)
+comment5.params=x
+comment5.target=java.lang.String\ bilk(int)
+numComments=6
